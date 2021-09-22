@@ -1,2 +1,2 @@
 # read-come-mend
-Created with CodeSandbox
+A react applications for recommendation of BOOKS
