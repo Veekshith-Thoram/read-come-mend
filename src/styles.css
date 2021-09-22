@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+li {
+  /* border: 1px solid black; */
+
+  margin: 1rem;
+  border-radius: 1rem;
+
+  text-align: center;
+}
+
+#books-div {
+  border-radius: 1rem;
+  margin: 2rem;
+  padding: 1rem;
+  background-color: #d1d5db;
+  /* color: #FDE68A */
+  /* text-align: left; */
+}
+
+#display {
+  margin: 1rem;
+  padding: 1rem;
+}
+hr {
+  /* padding: 1rem; */
+  margin: 2rem;
+}
+h3 {
+  padding: 1rem;
+  /* text-align: left; */
+}
+
+#centerex {
+}
